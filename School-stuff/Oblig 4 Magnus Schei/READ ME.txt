@@ -1,0 +1,28 @@
+Hei, mitt navn er Magnus Arsenovic Schei
+Velkommen til min innlevering av Oblig 4 i Grunnlegende Programering
+
+Innholdet i mappen er både på engelsk og norsk 
+
+
+Mappen inneholder de følgende filene:
+
+HOVEDINNHOLD
+File her er de ment som innlevering
+
+READ ME.txt - (generel informasjon om filene)
+oblig-4-main.php - (hovedsiden)
+oblig-4-confirm.php - (bekreftelses siden)
+oblig-4-mail.php - (sender mail, venligst bruk egen mail i variablen $mailTo)
+oblig-4-file-view.php - (viser innholdet i queryv2.txt)
+oblig-4-file-delete-v2.php (viser meldinger og kan slette enkelte linjer)
+queryv2.txt - (filen der meldinger lagres, kan slettes)
+query-backup.txt - (inneholder meldinger for å teste slette funksjonen, kan slettes)
+
+ANNET INNHOLD
+Disse eksisterer pga usikerhet om oppgaveteksten
+
+oblig-4-file-view-v2.php (viser innholdet i filen query.txt)
+oblig-4--file-delete.php - (viser meldinger og kan slette meldinger) 
+	[mer efektiv måte å slette meldinger på enn å slette enkelte linjer]
+query.txt (inneholder meldingene som er lagret for bruk i ...delete.php og ...view-v2.php 
+

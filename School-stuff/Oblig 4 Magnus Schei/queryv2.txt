@@ -1,0 +1,388 @@
+Member: Yes	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+Name: Anmia	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016	
+	
+Name: Anmia	
+Email: anmia@hioa.no	
+Telephone: 88800888	
+Member: No	
+Type: Other	
+Message: 	
+Hello, is this really a website or is it just a school project?	
+Message sendt: 01:59:16 - 18.10-2016	
+		
+Name: David	
+Email: david.dawson@hotmail.co.uk	
+Telephone: Not set	
+Member: No	
+Type: Products	
+Message: 	
+this works now YAY!	
+Message sendt: 01:59:43 - 18.10-2016	
+		
+Name: Selina	
+Email: selina.ambraelle@cr4n0.com	
+Telephone: Not set	
+Member: Yes	
+Type: Complaint	
+Message: 	
+This works now kinda I hope!	
+Message sendt: 02:00:30 - 18.10-2016
+	
